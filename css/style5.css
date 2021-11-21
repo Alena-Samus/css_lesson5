@@ -1,0 +1,30 @@
+body{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+p{
+display: table-cell;
+margin: 0;
+text-align: center;
+vertical-align: middle;
+}
+
+.blue{
+  background: #6b8fd4;
+  text-align: center;
+  color:  #ffcf73;
+  width: 20vh;
+  height: 20vh;
+}
+
+.yel{
+  background: #ffcf73;
+  text-align: center;
+  color: #6b8fd4;
+  width: 20vh;
+  height: 20vh;
+}
+
